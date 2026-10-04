@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 760" role="img" aria-labelledby="title desc">
+  <title id="title">Ganesh Giridaran chef portrait</title>
+  <desc id="desc">Stylized chef illustration in white uniform with warm accent colors.</desc>
+  <defs>
+    <linearGradient id="coat" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#edf1ee"/>
+    </linearGradient>
+    <linearGradient id="apron" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f3b76c"/>
+      <stop offset="100%" stop-color="#d97f34"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f7f6f2"/>
+      <stop offset="100%" stop-color="#dfe8e3"/>
+    </linearGradient>
+  </defs>
+
+  <ellipse cx="348" cy="700" rx="180" ry="38" fill="#122b25" opacity="0.11"/>
+
+  <circle cx="330" cy="170" r="118" fill="#f2d8b2"/>
+  <path d="M236 187c8-78 53-122 118-122 72 0 120 50 122 132-10-17-29-30-54-38-28-9-57-10-86 0-19 7-37 17-51 28-8 6-26 12-49 0z" fill="#1d2724"/>
+  <path d="M264 198c20-23 58-35 102-35 46 0 93 17 117 58-14 15-31 27-49 35-16 7-41 15-68 15-27 0-53-8-79-25-10-9-18-26-23-48z" fill="#1f2d2a" opacity="0.15"/>
+
+  <path d="M260 332c22-48 62-72 117-72s96 24 119 72l42 188c11 49-20 94-70 94H287c-50 0-81-45-70-94l43-188z" fill="url(#shirt)"/>
+  <path d="M302 388h122l26 142c6 34-35 69-74 69h-34c-39 0-80-35-74-69l34-142z" fill="url(#apron)" opacity="0.94"/>
+  <path d="M326 368h50l18 143h-86l18-143z" fill="#f6f2ec" opacity="0.82"/>
+  <path d="M386 323l34 82 74 18c26 7 41 36 31 61-8 21-31 35-55 35h-63l-79-120 58-76z" fill="url(#coat)"/>
+  <path d="M259 323l-32 80-72 18c-26 7-41 36-31 61 8 21 31 35 55 35h63l79-120-62-74z" fill="url(#coat)"/>
+
+  <path d="M286 350l-18 63 58 57 25-90-65-30z" fill="#0f2a24" opacity="0.09"/>
+  <path d="M420 350l18 63-58 57-25-90 65-30z" fill="#0f2a24" opacity="0.09"/>
+
+  <path d="M318 286c-14 23-18 48-18 75 0 31 11 59 34 79 14 12 32 18 51 18 18 0 35-5 50-18 24-20 35-48 35-79 0-28-6-52-19-75-26 17-44 24-67 25-24-1-46-8-66-25z" fill="#f5e3c2"/>
+  <path d="M283 287c10 9 24 15 39 17 17 2 41 2 56-13 14-14 18-30 16-44-24-18-83-19-115 8-11 9-18 22-20 32 8 6 15 11 24 13z" fill="#1d2724"/>
+  <path d="M334 276c16 10 32 14 49 14 19 0 36-5 50-15-1 37-12 75-39 100-11 10-28 15-46 15-16 0-32-5-45-16-24-21-35-56-34-97 18 10 38 15 65-1z" fill="#f1d7b5"/>
+
+  <circle cx="328" cy="310" r="8" fill="#1f2d2a"/>
+  <circle cx="398" cy="310" r="8" fill="#1f2d2a"/>
+  <path d="M346 341c11 12 28 18 44 18 17 0 33-6 45-18" fill="none" stroke="#b66f4d" stroke-width="8" stroke-linecap="round"/>
+  <path d="M282 432l-32 128c-7 30 9 62 39 72l59 22" fill="none" stroke="#f1d7b5" stroke-width="28" stroke-linecap="round"/>
+  <path d="M501 432l31 120c7 30-9 62-39 72l-59 22" fill="none" stroke="#f1d7b5" stroke-width="28" stroke-linecap="round"/>
+  <path d="M325 499l-37 76" fill="none" stroke="#1f2d2a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M446 499l38 76" fill="none" stroke="#1f2d2a" stroke-width="14" stroke-linecap="round"/>
+
+  <path d="M311 613l-22 86h116l-21-86H311z" fill="#f5f0ea"/>
+  <path d="M290 604h112l17 23H272l18-23z" fill="#f0d5a6" opacity="0.7"/>
+</svg>
